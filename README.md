@@ -13,7 +13,7 @@ How to run:
  1. npm install
  2. npm start
  
-*Check `package.json` file for more `npm` commands.
+Check `package.json` file for more `npm` commands.
 
 ___
 
