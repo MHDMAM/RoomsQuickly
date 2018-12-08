@@ -17,17 +17,17 @@
   "dependencies": {
     "async": "^2.4.1",
     "bluebird": "^3.4.6",
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.0",
     "express-queue": "0.0.5",
-    "helmet": "^3.1.0",
+    "helmet": "^3.8.2",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
-    "mongoose": "^4.7.0",
+    "mongoose": "^4.11.14",
     "mongoose-paginate": "^5.0.3",
-    "morgan": "^1.7.0",
+    "morgan": "^1.9.1",
     "redis": "^2.7.1",
-    "request": "^2.81.0",
+    "request": "^2.84.0",
     "request-promise": "^4.2.1"
   },
   "devDependencies": {
