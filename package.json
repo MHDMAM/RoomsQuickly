@@ -23,7 +23,7 @@
     "helmet": "^3.1.0",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
-    "mongoose": "^4.7.0",
+    "mongoose": "^6.4.6",
     "mongoose-paginate": "^5.0.3",
     "morgan": "^1.7.0",
     "redis": "^2.7.1",
